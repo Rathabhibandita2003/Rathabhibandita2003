@@ -1,5 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Abhibandita+Rath+👋&center=true&size=21">
+  </a>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Abhibandita+Rath)](https://git.io/typing-svg)
 <br><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rathabhibandita2003&label=Profile%20views&color=129e00&style=plastic" alt="ad" /> </p>
