@@ -1,3 +1,6 @@
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
+<br/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Abhibandita+Rath+👋&center=true&size=21">
