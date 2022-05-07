@@ -1,4 +1,4 @@
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="github.gif">
 <br/>
 
 <h1 align="center">
