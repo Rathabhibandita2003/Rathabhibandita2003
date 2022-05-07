@@ -1,5 +1,4 @@
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="github.gif">
-<br/>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +9,8 @@
 <br><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rathabhibandita2003&label=Profile%20views&color=129e00&style=plastic" alt="ad" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
+<img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="github.gif">
+<br/>
 - 👀 I’m interested in coding.
 <br>
 - 🌱 I’m currently learning web development.
